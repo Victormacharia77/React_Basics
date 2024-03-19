@@ -1,0 +1,9 @@
+div.textstyle{
+  color:brown;
+  font-size: 2.0rem; 
+  display:flex;
+  align-items: center;
+  gap:2rem;
+  
+  
+}
